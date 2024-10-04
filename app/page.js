@@ -36,7 +36,7 @@ export default function Home() {
           </div>
         </nav>
       </div>
-      <main className="flex-auto min-w-0 mt-6 flex flex-col px-2 md:px-0 font-[family-name:var(--font-geist-sans)]">
+      <main className="flex-auto min-w-0 mt-6 flex flex-col px-2 md:px-0">
         <section>
           <h1 className="my-8 text-2xl font-medium tracking-tighter">
             İbrahim Sarıkaya
