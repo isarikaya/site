@@ -118,7 +118,7 @@ export default function Home() {
       <footer className="mb-4">
         <hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
         <span className="mt-8 text-sm text-label">
-          © {+new Date().getFullYear()} İbrahim Sarıkaya 2121032075 All Rights
+          © {+new Date().getFullYear()} İbrahim Sarıkaya All Rights
           Reserved.
         </span>
       </footer>
